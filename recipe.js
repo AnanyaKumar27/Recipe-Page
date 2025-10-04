@@ -1,0 +1,3 @@
+function myFunction() {
+    document.getElementById("more").innerHTML = "cupcake kits are kits which provide a set of parts needed to allow an amateur baker to produce a themed batch of cupcakes, often to tie in with themed parties. Examples of themes include princesses, pirates, fairies and dinosaurs. Typically kits include appropriately decorated cupcake cases and cupcake toppers, but some kits are available which also include the ingredients needed for baking.Cupcake kits were introduced in 2008 by the partyware company Meri Meri[28] and continue to be popular items in kitchenware stores.";
+}
